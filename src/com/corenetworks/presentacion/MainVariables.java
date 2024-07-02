@@ -5,7 +5,7 @@ import java.time.Period;
 import java.time.LocalDate;
 import java.util.Arrays;
 
-public class Main {
+public class MainVariables {
     public static void main(String[] args) {
         //Ejercicio 1
         int n1 = 5;
